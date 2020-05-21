@@ -10,6 +10,15 @@
 03. Alert Dialogue, Custom Alert Dialogue
 04. Adapter,Buttons, EditText
 
+# Basic Function
+01.Insert Data
+02.Display Data in Dialogue
+03.Display data in ListView
+04.Display data in RecycleView
+05.Update Data
+06.Delete Data
+07.Search Data
+
 # Same Project with Android SQLite Database
 https://github.com/KhairuI/SQLite-CRUD-Fuction
 
