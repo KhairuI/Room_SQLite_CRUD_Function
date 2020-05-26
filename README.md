@@ -19,6 +19,7 @@
 06.Delete Data
 07.Search Data
 
-# Same Project with Android SQLite Database
-https://github.com/KhairuI/SQLite-CRUD-Fuction
+# Related Projects
+01. SQLite CRUD: https://github.com/KhairuI/SQLite-CRUD-Fuction
+02. MVVM_With_Room_SQLite: https://github.com/KhairuI/MVVM_With_Room_SQLite
 
